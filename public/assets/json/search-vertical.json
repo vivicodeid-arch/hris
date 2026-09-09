@@ -1,0 +1,261 @@
+{
+  "pages": [
+    {
+      "name": "Dashboard",
+      "icon": "ti-home",
+      "url": "/dashboard"
+    },
+    {
+      "name": "Data Master - Karyawan",
+      "icon": "ti-users",
+      "url": "/karyawan"
+    },
+    {
+      "name": "Data Master - Departemen",
+      "icon": "ti-building",
+      "url": "/departemen"
+    },
+    {
+      "name": "Data Master - Grup",
+      "icon": "ti-users-group",
+      "url": "/grup"
+    },
+    {
+      "name": "Data Master - Jabatan",
+      "icon": "ti-id",
+      "url": "/jabatan"
+    },
+    {
+      "name": "Data Master - Cabang",
+      "icon": "ti-building-skyscraper",
+      "url": "/cabang"
+    },
+    {
+      "name": "Data Master - Cuti",
+      "icon": "ti-calendar-off",
+      "url": "/cuti"
+    },
+    {
+      "name": "Data Master - Status Kawin",
+      "icon": "ti-heart",
+      "url": "/statuskawin"
+    },
+    {
+      "name": "Data Master - Status Karyawan",
+      "icon": "ti-user-check",
+      "url": "/statuskaryawan"
+    },
+    {
+      "name": "Presensi - Monitoring Presensi",
+      "icon": "ti-device-desktop",
+      "url": "/presensi"
+    },
+    {
+      "name": "Presensi - Tracking Presensi",
+      "icon": "ti-map-2",
+      "url": "/trackingpresensi"
+    },
+    {
+      "name": "Payroll - Jenis Tunjangan",
+      "icon": "ti-cash",
+      "url": "/jenistunjangan"
+    },
+    {
+      "name": "Payroll - Gaji Pokok",
+      "icon": "ti-moneybag",
+      "url": "/gajipokok"
+    },
+    {
+      "name": "Payroll - Tunjangan",
+      "icon": "ti-coin",
+      "url": "/tunjangan"
+    },
+    {
+      "name": "Payroll - BPJS Kesehatan",
+      "icon": "ti-heart-medical",
+      "url": "/bpjskesehatan"
+    },
+    {
+      "name": "Payroll - BPJS Tenaga Kerja",
+      "icon": "ti-shield-lock",
+      "url": "/bpjstenagakerja"
+    },
+    {
+      "name": "Payroll - Penyesuaian Gaji",
+      "icon": "ti-adjustments-dollar",
+      "url": "/penyesuaiangaji"
+    },
+    {
+      "name": "Payroll - Slip Gaji",
+      "icon": "ti-receipt",
+      "url": "/slipgaji"
+    },
+    {
+      "name": "Pinjaman Karyawan",
+      "icon": "ti-credit-card",
+      "url": "/pinjaman"
+    },
+    {
+      "name": "KPI - Periode Penilaian",
+      "icon": "ti-calendar-event",
+      "url": "/kpi/periods"
+    },
+    {
+      "name": "KPI - Indikator KPI",
+      "icon": "ti-checklist",
+      "url": "/kpi/indicators"
+    },
+    {
+      "name": "KPI - Input Penilaian",
+      "icon": "ti-edit",
+      "url": "/kpi/transactions"
+    },
+    {
+      "name": "Kunjungan - Data Kunjungan",
+      "icon": "ti-map-pin",
+      "url": "/kunjungan"
+    },
+    {
+      "name": "Kunjungan - Tracking Kunjungan",
+      "icon": "ti-current-location",
+      "url": "/tracking-kunjungan"
+    },
+    {
+      "name": "Kontrak Karyawan",
+      "icon": "ti-file-certificate",
+      "url": "/kontrak"
+    },
+    {
+      "name": "Mutasi & Promosi",
+      "icon": "ti-exchange",
+      "url": "/mutasi"
+    },
+    {
+      "name": "Resign Karyawan",
+      "icon": "ti-user-x",
+      "url": "/resign"
+    },
+    {
+      "name": "Pengajuan Izin / Cuti / Sakit",
+      "icon": "ti-folder-check",
+      "url": "/izinabsen"
+    },
+    {
+      "name": "Lembur",
+      "icon": "ti-clock",
+      "url": "/lembur"
+    },
+    {
+      "name": "Aktivitas Karyawan",
+      "icon": "ti-activity",
+      "url": "/aktivitaskaryawan"
+    },
+    {
+      "name": "Pelanggaran",
+      "icon": "ti-alert-triangle",
+      "url": "/pelanggaran"
+    },
+    {
+      "name": "Pengumuman",
+      "icon": "ti-bell",
+      "url": "/pengumuman"
+    },
+    {
+      "name": "Konfigurasi - General Setting",
+      "icon": "ti-settings",
+      "url": "/generalsetting"
+    },
+    {
+      "name": "Konfigurasi - Aturan Lembur",
+      "icon": "ti-clock-edit",
+      "url": "/lemburaturan"
+    },
+    {
+      "name": "Konfigurasi - Denda",
+      "icon": "ti-receipt-off",
+      "url": "/denda"
+    },
+    {
+      "name": "Konfigurasi - Hari Libur",
+      "icon": "ti-calendar-plus",
+      "url": "/harilibur"
+    },
+    {
+      "name": "Konfigurasi - Jam Kerja Departemen",
+      "icon": "ti-calendar-stats",
+      "url": "/jamkerjabydept"
+    },
+    {
+      "name": "Konfigurasi - Jam Kerja",
+      "icon": "ti-calendar-time",
+      "url": "/jamkerja"
+    },
+    {
+      "name": "Konfigurasi - Mesin Fingerprint",
+      "icon": "ti-fingerprint",
+      "url": "/mesin-fingerprint"
+    },
+    {
+      "name": "Laporan - Laporan Presensi",
+      "icon": "ti-report",
+      "url": "/laporan/presensi"
+    },
+    {
+      "name": "Laporan - Laporan Gaji",
+      "icon": "ti-report-money",
+      "url": "/laporan/gaji"
+    },
+    {
+      "name": "Laporan - Laporan Jadwal",
+      "icon": "ti-report-search",
+      "url": "/laporan/jadwal"
+    },
+    {
+      "name": "Laporan - Laporan Cuti",
+      "icon": "ti-report-medical",
+      "url": "/laporan/cuti"
+    },
+    {
+      "name": "Utilities - User Management",
+      "icon": "ti-users",
+      "url": "/users"
+    },
+    {
+      "name": "Utilities - Role Management",
+      "icon": "ti-shield-lock",
+      "url": "/roles"
+    },
+    {
+      "name": "Utilities - Permission",
+      "icon": "ti-lock-access",
+      "url": "/permissions"
+    },
+    {
+      "name": "Utilities - Group Permission",
+      "icon": "ti-lock-square",
+      "url": "/permissiongroups"
+    },
+    {
+      "name": "Utilities - Log Login",
+      "icon": "ti-history",
+      "url": "/userloginlog"
+    },
+    {
+      "name": "Utilities - Log Mesin Presensi",
+      "icon": "ti-device-analytics",
+      "url": "/logmesin"
+    },
+    {
+      "name": "Utilities - Backup & Restore",
+      "icon": "ti-database-export",
+      "url": "/backup"
+    },
+    {
+      "name": "WA Gateway",
+      "icon": "ti-brand-whatsapp",
+      "url": "/wagateway"
+    }
+  ],
+  "files": [],
+  "members": []
+}

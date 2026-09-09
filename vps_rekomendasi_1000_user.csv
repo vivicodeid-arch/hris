@@ -1,0 +1,7 @@
+Komponen,Spesifikasi,Alasan
+CPU,4 Core (vCPU),"Menangani request bersamaan saat jam sibuk (07:00-08:00)"
+RAM,8 GB,"PHP-FPM untuk concurrency & optimasi database MySQL"
+Storage,"80 GB - 160 GB NVMe SSD","Estimasi foto: 1000 user x 2 foto x 200KB = ~12GB/bulan"
+Bandwidth,"Unlimited / High Capacity","Upload foto membutuhkan upstream/downstream stabil"
+Web Server,"Nginx + PHP-FPM","Lebih performant menangani concurrent connections dibanding Apache"
+Cache/Queue,"Redis","Mengantrikan proses berat seperti Notifikasi WA"

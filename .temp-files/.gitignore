@@ -1,0 +1,10 @@
+# Temporary Files Repository
+# This folder contains test files and temporary scripts that are not part of production code
+
+# Ignore all files in this directory
+*
+!.gitignore
+!README.md
+
+# Allow documentation about what's in these folders
+!README.md
